@@ -45,7 +45,20 @@ $on-laptop:        800px !default;
 
 // Import partials.
 @import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+"minima/base",
+"minima/layout",
+"minima/syntax-highlighting"
 ;
+
+.paginator{
+  padding: 20px;
+  text-align: center;
+  list-style: none;
+  line-height: 3;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.paginator a{
+  font-size: 20px;
+}
