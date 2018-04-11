@@ -58,3 +58,14 @@ $on-laptop:        800px !default;
   box-sizing: border-box;
   margin: 0;
 }
+
+img{
+  padding: 10px;
+  box-sizing: border-box;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2f4bed+0,80edb1+100 */
+background: #2f4bed; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #2f4bed 0%, #80edb1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #2f4bed 0%,#80edb1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #2f4bed 0%,#80edb1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f4bed', endColorstr='#80edb1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
