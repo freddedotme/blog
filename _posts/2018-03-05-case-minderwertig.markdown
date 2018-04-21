@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Case: Minderwertig"
-date:   2018-04-21 15:16:00 +0200
+date:   2018-03-05 15:16:00 +0200
 categories: ui web
 ---
 
